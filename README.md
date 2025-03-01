@@ -32,4 +32,4 @@ Sigue estos pasos para ejecutar la aplicación localmente:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/Mateo-R99/CartaVirtual/new/master
+   https://github.com/Mateo-R99/CartaVirtual
